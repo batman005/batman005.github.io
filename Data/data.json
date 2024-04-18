@@ -1,0 +1,26 @@
+[
+    {
+        "title": "EduPlus",
+        "description": " Built interactive dashboards with customizable charts, analyzing video effectiveness to optimize learning",
+        "imageUrl": "https://creatorspace.imgix.net/sites/ogimages/aHR0cHM6Ly9lZHVwbHVzYXBwLmNvbS9hc3NldHMvaW1nL3dlYi10aHVtYi5qcGc=.jpeg?width=600&height=600",
+        "Link": "https://eduplusapp.com/"
+    },
+    {
+        "title": "SkyConnect",
+        "description": "The SkyConnect API is a powerful flight booking service that simplifies the integration of flight search, booking, and management functionalities into your applications.",
+        "imageUrl": "https://creatorspace.imgix.net/sites/ogimages/aHR0cHM6Ly9vcGVuZ3JhcGguZ2l0aHViYXNzZXRzLmNvbS9iMDM3YmFjYzNhZDFhNDcyMDY4OWQzZmE5YTI5ZDkwMWE0MjcwY2YyZmM1ZDA3ZmViN2Y0MWVkZmIyOTZmMjhhL2JhdG1hbjAwNS9Ta3lDb25uZWN0X0JhY2tlbmQ=.jpeg?width=600&height=600",
+        "Link": "https://github.com/batman005/SkyConnect_Backend"
+    },
+    {
+        "title": "Old-Samachar",
+        "description": "A handy pocket-sized News App for newsreaders.",
+        "imageUrl": "https://creatorspace.imgix.net/sites/aHR0cDovL29sZHNzcy5uZXRsaWZ5LmFwcC8=/screenshot.jpeg?width=600&height=600",
+        "Link": "https://oldsss.netlify.app/"
+    },
+    {
+        "title": "Vin-Player",
+        "description": "A player where you can listen to MP3/MP4 music videos and manage them in a personalized way.",
+        "imageUrl": "https://creatorspace.imgix.net/sites/aHR0cDovL3Zpbi1wbGF5ZXIubmV0bGlmeS5hcHAv/screenshot.jpeg?width=600&height=600",
+        "Link": "https://vin-player.netlify.app/"
+    }
+]
